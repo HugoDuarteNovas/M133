@@ -1,19 +1,27 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Hugo Duarte Novas
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Bei dem Modul 133 geht es darum mit JSF Web Applikationen mit Sessions zu entwickeln. Bei diesem Auftrag sollten wir Bilder einfügen sodass man sein Charakter von Pokemon GO personalisieren kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man Bilder einfügt in .xhtml Dateien mit der Hilfe von JSF.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+```java
+<!-- Hier kreiere ich einen CommandLink. Wenn dieser aktiviert wird, geht man zu einer neuen Seite. -->
+<h:commandLink value="" action="helle_haut.xhtml">
+<!-- Hier rufe ich den Setter auf -->
+                <f:setPropertyActionListener target="#{helloManagedBean.favourite}" value="links"/>
+<!-- Hier füge ich das Bild hinzu, der CommandLink wird beendet -->
+                <h:graphicImage value="9954_PokemonBilder/9954_PokemonBilder/h.png" width="200"/>
+            </h:commandLink>
+```
 
-* Eine textliche Beschreibung
+Hier kann man sehen einen Teil meines Programmes. Ich habe hier zwei Bilder hinzugefügt, welche dann zu jeweils unterschiedliche .xhtml Seiten führen.
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
