@@ -22,18 +22,17 @@ Ich habe gelernt, wie man Bilder einfügt in .xhtml Dateien mit der Hilfe von JS
 ```
 
 Hier kann man sehen einen Teil meines Programmes. Ich habe hier zwei Bilder hinzugefügt, welche dann zu jeweils unterschiedliche .xhtml Seiten führen.
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+![Unbenannt](https://user-images.githubusercontent.com/106603796/187195114-1c0c16b8-8a71-42f8-a6a6-95926023dc7e.PNG)
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Bei dem Bild kann man deutlich sehen, dass zwei Bilder sichtbar sind. Somit ist klar, dass ich die Aufgabe abgeschlossen habe.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Gut lief das Recherchieren der Informationen zum Umsetzen des Programmes.
 
-👎 und etwas, was nicht gut lief.
+Was nicht so gut lief war leider das Organisieren. Ich habe diese Aufgabe unterschätzt und den Lehrer missverstanden.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich soll besser zuhören und die Aufgaben ganz durchlesen, damit ich besser vorwärts komme.
